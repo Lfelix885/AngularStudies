@@ -1,0 +1,22 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"Caneta",
+            "brand":"BIC",
+            "price":2.45
+        },
+        {
+            "id":2,
+            "name":"Borracha",
+            "brand":"Faber-Castell",
+            "price":5.90
+        },
+        {
+            "id":3,
+            "name":"Caderno Frozen",
+            "brand":"Disney",
+            "price":50.00
+        }
+    ]
+}
